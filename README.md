@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ruben-chung
-- 👀 I’m interested in Quantitative Finance, Algorithmic Trading, Sports Analytics, Options Trading, Data Science, Financial Modeling
-- 🌱 I’m currently learning advanced python libraries
-- 💞️ I’m looking to collaborate on projects related to options trading, quantitative finance, or data science.
-- 📫 How to reach me | linkedin.com/in/rubenchung
+### Hi, I’m @ruben-chung
+- I’m interested in Quantitative Finance, Algorithmic Trading, Sports Analytics, Options Trading, Data Science, Financial Modeling
+- I’m currently learning advanced python libraries and I’m looking to collaborate on projects related to options trading, quantitative finance, or data science.
+- You can reach me at [linkedin.com/in/rubenchung](https://linkedin.com/in/rubenchung)
 
 
 <!---
